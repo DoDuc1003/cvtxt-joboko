@@ -1,0 +1,61 @@
+LIÊN HIỆP HTX TP HCM SAIGON CO-OP    
+- Làm việc với các phòng ban: Khảo sát quy trình thực tế, tiếp
+nhận yêu cầu,tổng hợp sơ đồ hóa các quy trình: quy trình vận
+chuyển từ kho đến siêu thị, quy trình xử lý biên bản, quy trình
+booking nhà vận chuyển, quy trình nhà cung cấp booking.
+- Xây dựng tài liệu nghiệp vụ, hỗ trợ test ứng dụng, góp ý xây
+dựng về mặt UI/UX, viết tài liệu hướng dẫn sử dụng.
+- Thực hiện triển khai: Đào tạo hướng dẫn người dùng, tiếp
+nhận thông báo và hướng dẫn người dùng xử lý khi phần mềm
+phát sinh lỗi.
+- Quản lý master data: Danh mục điểm, nhà vận chuyển, hàng
+hóa, tuyến đường, báo giá vận tải, nhà cung cấp.
+- Phân tích dữ liệu: Xuất báo cáo từ hệ thống TMS, phân tích
+chi phí vận chuyển, phân tích đánh giá KPI nhà vận chuyển
+Thành tích
+Go live dự án phần mềm vận chuyển TMS cho hệ thống bán lẻ
+Saigonco-op cụ thể:
+- Triển khai và áp dụng thực tế phần mềm TMS vào quy trình
+vận chuyển từ Trung tâm phân phối đến các cửa hàng bán lẻ.
+- Triển khai ứng dụng booking trung chuyển từ Nhà cung cấp
+đến Trung tâm phân phối nhà cung cấp.Chuyên viên triển khai hệ thống quản lý vận tải TMS
+| 4/2018-10/2020
+CÔNG TY GIẢI PHÁP CHUỖI CUNG ỨNG SMARTLOG
+- Lên kế hoạch triển khai dự án
+- Làm việc với khách hàng là các công ty vận tải( Gemadept,
+Transimex, Nguyễn Ngọc, Vinafco...) khảo sát nhu cầu, các vấn
+đề và thách thức khách hàng gặp phải thông qua các
+workshop/bảng khảo sát/site visit…
+- Phân tích vẽ lại quy trình và đánh giá các yêu cầu cũng như
+đưa ra các giải pháp khả thi.
+- Tham gia xây dựng kịch bản, test ứng dụng mobile app cho
+tài xế
+Báo cáo tiến độ dự án
+- Thực hiện việc triển khai tại hiện trường.
+- Hỗ trợ khách hàng sau khi go-liveNhân viên triển khai phần mềm | 4/2017-12/2017KINH NGHIỆM LÀM VIỆC
+PHƯƠNG
+NHẬT AN
+CHUYÊN VIÊN TRIỂN
+KHAI PHẦN MỀM
+HỒ SƠ CÁ NHÂN
+Tôi là Chuyên viên triển khai phần mềm.
+Với những kiến thức và kinh nghiệm cùng
+với tinh thần trách nhiệm trong công việc
+tôi hy vọng có thể góp một phần nhỏ của
+mình vào sự phát triển của công ty
+KỸ NĂNG VÀ NĂNG LỰC
+Kỹ năng tư duy logic và giải quyết vấn đề
+Kỹ năng Tin học văn phòng: Word, Excel
+Ngoại ngữ: Toiec 460
+Kỹ năng thiết kế báo cáo
+Kỹ năng giao tiếp
+Kỹ năng lên kế hoạch và thực hiện kế
+hoạch
+THÔNG TIN LIÊN HỆ
+SDT: 0855 793 698
+Email: phuongnhatan95@gmail.com
+Địa chỉ: 132/12 Kha Vạn Cân, P. Hiệp Bình
+Chánh, Q. Thủ Đức, HCM
+ĐẠI HỌC GIAO THÔNG VẬN TẢI TP HCM 
+Tốt nghiệp loại: Khá
+GPA: 7.08Chuyên ngành: Quản trị Logistics| 2013 -2018QUÁ TRÌNH HỌC TẬP

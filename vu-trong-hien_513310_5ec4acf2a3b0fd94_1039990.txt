@@ -1,0 +1,76 @@
+VU TRONG HIEN
+ADDRESS418/75 Hong Bang  District 11, Ho Chi 
+Minh City, Vietnam
+EMAILhienvu080791@gmail.comPHONE0903491407
+DATE / PLACE OF BIRTH08/07/1991 / My Tho, Tien Giang
+01  PROFILE My strengths:
+•Can work with high pressure.
+•Work well with teammates.
+•Can research and solve the problem myself.
+•Quickly adaptive with new technology.
+•Friendly with everyone.
+02  EDUCATION
+Sep 2009 — Apr 2013
+Ho Chi Minh CityHo Chi Minh City Open University
+ Bachelor
+Aug 2018 — Sep 2018
+HCMRobusta Education Institute
+MCSA course
+Has successfully completed the MCSA course 
+Jun 2019 — Sep 2019
+HCMRobusta Education Institute 
+Linux
+Has successfully completed the Linux course 
+Jan 2020 — Jul 2020
+HCMKhoa Pham Traning
+PHP & MYSQL Web Development
+Has Succeful Completed PHP & MYSQL Web Development Course
+03  EMPLOYMENT HISTORY
+Aug 2015 — Sep 2016
+Ho Chi Minh CityIT Admin at Mat Bao Joint Stock Company.
+- Help-desk user.- Executing installation of PCs system, camera, new site.
+- Consulting and purchasing new equipment for the company.
+- Reporting on the situation of the system when there are incidents and asset
+inventory at the end of the month.
+Sep 2016 — Apr 2018
+Ho Chi Minh CityIT Solution at Sieu Thanh Joint Stock Company.
+- Training the features of the Ricoh photocopy machine.
+- Consulting, designing printing solutions for potential customers.
+- Deploying projects, install servers, and link sites.
+- Major customer systems have successfully deployed: Maritime, VIB, Li & Fung,
+Nutifood, Vinacapital, New World, ...
+May 2018 — Sep 2020
+Ho Chi Minh CitySenior Engineer at ELCA Information Technology 
+- Manage system server with v-Center: Monitor, back-up, and deploy vm.
+- Monitor services (use check_MK):
+  + ad, mail, dns, .. service.
+  + switch, router, WiFi devices.
+  + available storage device.
+  + back-up (mail, share folders)
+- Fix issue security (scan by OpenVAS).
+- Manage inventory for ELCA:
+  + PCs & laptop: manage and prepare for the user if have a request.
+  + Printer, scanner, TVs, projector, ...
+  + Test device: mobile phone, tablet,...
+- Report resources (devices, furniture,..).
+  + report monthly for the direct manager: totally, used, and available devices (PCs, laptops)
+  + when users have the request IT devices, I will plan and present to my manager for buying.
+- Deploy PCs, Laptops for users (use MDT service).
+- Help-desk end-user (through Jira ticket):
+  + issue with windows, ofJce, software, and hardware.
+  + explain and solve for the user about problems with their PCs or laptops. 
+Jul 2020 — Oct 2020 System developer at Eton VN
+- Project detect dimensions by camera and recognition character.04  SKILLS Communication
+Manage server (2008, 
+2012, 2016)
+v-Center, Mail server, 
+AD, Domain,..
+Set-up maintenance PC 
+system and ofJce 
+software.
+NetworkingComplex Problem 
+Solving
+Solution Research
+Basic knowledge Git.
+Python
+05  HOBBIES Soccer, watching the Jlm, travel,

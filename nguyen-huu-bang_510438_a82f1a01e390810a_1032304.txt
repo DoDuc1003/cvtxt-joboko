@@ -1,0 +1,43 @@
+/ >NGUYỄN 
+HỮU 
+BẰNG
+/GIỚI THIỆU
+/ Ngày sinh: 21/01/1998
+/ Sinh viên viên năm cuối 
+/ Chăm ch ỉ  học h ỏ i: 100%
+/ Có trách nhiệm: 100%
+/ Hoà đồng: 100%
+/ Năng động: 100%
+/ Làm việc nhóm: 100%
+/ Thích ch ơ i th ể  thao/ HỌC VẤN
+>> Học viện Công nghệ b ư u chính viễn
+thông - PTIT
+>> Chuyên ngành: Công nghệ thông tin
+>> GPA: 3.13 
+>> Có kiến th ứ c nền về toán học
+>> Toeic: 595.
+/ THÔNG TIN LIÊN HỆ
+>> Địa ch ỉ :  xã Đông D ư , Gia Lâm, Hà Nội
+>> Email:  bang98ptit@gmail.com
+>> Điện thoại: 0961455406
+>>Website: https://bangpf.herokuapp.com/
+>>Facbook: https://www.facebook.com/Bahiu21/ KINH NGHIỆM
+>> Có kiến th ứ c c ơ  b ả n về back-end: php(laravel),
+python(flask).
+>> Có kiến th ứ c c ơ  b ả n về: sql, git, docker, deploy
+heroku, html, css, javascript.
+>>D ự  án tham gia: https://dimuonnoi.vn
+>>Bài tập l ớ n Web: 
+Web site bán hàng + elasticsearch:
+http://glassess.herokuapp.com
+Qu ả n lí và bán hàng online
+http://boiling-reaches-11114.herokuapp.com
+Tra c ứ u đi ể m chu ẩ n vào 10.
+http://diemchuanvao10.herokuapp.com
+Gallery hoa : http://hoacolan.herokuapp.com
+>> Crawl d ữ  liệu<
+/ NGUYỆN VỌNG
+>>Đ ư ợ c học h ỏ i, ch ỉ  b ả o t ừ  các anh chị đi tr ư ớ c.
+>>Tham gia, đóng góp vào d ự  án th ự c tế.
+>>Nâng cao kĩ năng lập trình.
+>>Giao l ư u và kết nối v ớ i mọi ng ư ờ i.

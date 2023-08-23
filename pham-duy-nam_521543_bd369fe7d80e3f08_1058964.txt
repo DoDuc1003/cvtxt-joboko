@@ -1,0 +1,248 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PERSONAL DETAILS
+Full
+ 
+Name:
+ 
+Ph
+ạ
+m Duy Nam
+Date of
+ 
+Birth:
+ 
+Dec.
+ 
+25,
+ 
+1992
+Address:
+ 
+453/95 Le Van Sy
+ 
+Street, Ward 12, District 3
+ 
+Mobile
+ 
+Phone:
+ 
+0934-128-369
+Email:
+ 
+hrphamduynam@gmail.com
+Gender:
+ 
+Male
+Marital
+ 
+Status:
+ 
+Married
+Position
+ 
+Apply:
+ 
+IT
+ 
+Networks &
+ 
+Infrastructure Supervisor
+ 
+ 
+EDUCATION
+ 
+The University of Natural Sciences 
+-
+ 
+HCM, Vietnam
+ 
+Bachelor of Science in Information Technology
+ 
+(Graduated 
+-
+ 
+2014
+)
+ 
+Subjects 
+studied:
+ 
+Information Technology
+ 
+Operating 
+Systems:
+ 
+Windows 2003, XP
+, Windows 2007, 
+Windows 10
+ 
+and Linux
+ 
+Programming 
+languages:
+ 
+C, C++, Java, MySQL, HTML, XML.
+ 
+And 
+subjects:
+ 
+System Analysis and Design, Software Project Management, Object 
+-
+ 
+Oriented 
+Programming (
+using C# 
+language)
+, Database Management System, Design and 
+develop website
+ 
+MSC
+A / MCSE passed
+ 
+CCNA 
+passed
+ 
+CCNP
+ 
+Routing
+ 
+in process
+ 
+Mastering 
+Office 365 Passed
+ 
+ 
+LPI 1&2 
+passed
+ 
+Exchange Server 
+passed
+ 
+Data Center Virtualization Fundamentals passed
+ 
+Azure cloud passed
+ 
+C
+AREER SUMMARY
+ 
+ 
+Jan.
+ 
+20
+14 
+to 
+Otc.
+ 
+2015
+ 
+BSD Solutions
+ 
+Company
+ 
+Position:
+ 
+IT Support
+ 
+Nov.
+ 
+201
+5 to Apr. 2018
+ 
+ABA
+ 
+Business Solution
+ 
+Company
+ 
+Position:
+ 
+IT Executive
+ 
+Apr. 2018 
+-
+ 
+Now
+ 
+HCMC
+ 
+Securities Corporation
+ 
+ 
+Position: IT 
+Suppervisor
+ 
+ 
+PROFRESSIONAL EXPERIENCE  
+01/2014  – 10/2015 : BSD Solutions  Company  
+Position:  IT Support  
+Main Duties:  
+* Installation and configuration of hardware and software ( office computers, printers, 
+etc.). 
+* Fix technical problems and diagnose hardware and software problems in the 
+computers and related equipment as they arise  
+* Configure and install operating systems and make appropriate changes in the network 
+as needed.  
+* Install new software as needed and set up new user accounts for employees  
+* Setup VPN site to site and client to site  
+* Setup system Microsoft Dynamic AX, Micr osoft Dynamic CRM for Team Develop  
+* Anti-virus software installation, reporting new virus files and malware removal  
+* Maintaining back up files  
+ 
+10/2015 - 04/2018 : ABA  Business Solution  Company  
+Position:  IT Executive  
+ 
+Main Duties:  
+* The primary role of the IT operations administrator person is to provide support to 
+internal and external employees by resolving their technical issues via email, phone, other 
+electronic medium or visit.  This position is also responsible to help monitor and maintain 
+computer systems, printers, networks, and main operations of multi -site 
+* Installation and configuration of hardware and software (office computers, printers, 
+etc.) 
+* Fix technical problems and diagnose hardware and software problems in the 
+computers and related eq uipment as they arise  
+* Configure and install operating systems and make appropriate changes in the network 
+as needed  
+* Configuring email accounts through POP3, Outlook and IMAP  
+* Monitoring and maintain : Mail Server,  Web Server,  Camera System,  PBX System.  
+* Manage videos conference  
+* Anti-virus software installation , reporting  new virus files and malware removal  
+* Maintaining back up database files server  
+ 05/2018 – Now: Ho Chi Minh City Securities Corporation (HSC)  
+Position: Supervisor  
+- Deploy 365 email services and sync on premises AD  
+- Synchronize local data with One Drive For Business, Sharepoint Online  
+- Deploy the site to site VPN configuration from the main office to t he branches with 
+Firewall fortigate.  
+- Build VMWARE virtual machine system : configure backup , load balancing and security 
+for system.  
+- Support network system, integrate security software SOPHOS internet system  
+Orther:  Installation and configuration of hardware and software (office computers, printers , 
+PBX System,  supporting onsite  200 users , etc.)  
+PERSONAL SPECIAL SKILLS  
+Networking: TCP/IP, Lan, Wan.  OS System: Windows (XP, Server 200 8, Server 2012 , 
+Server 2016, Linux)  
+Hardware Desktop  Laptop, Server  
+Database  Management System : SQL 20 12 ++, MS Access 2013 ++  
+Deployment MS Office 365  
+Firewall & Neworks Secure Policy  (Fortinet and Miscrosft)  
+VM Ware  
+SALARY INFORMATION  
+Currently : 900 USD/Month. Expected: 1.000 USD/Month  
+REFERENCES  
+Available up on request  

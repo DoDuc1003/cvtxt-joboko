@@ -1,0 +1,65 @@
+ 
+  
+CERTIFICATION
+S 
+EDUCATION  
+2018-Present  
+Hanoi 
+ Architectural University  
+Information Technology  
+EXPERIENCES  
+WindSoft  Company  
+- 
+6 month experience in React Native Framework : React Navigation, Redux, Saga, Codepush, 
+OneSignal, React Native Map,FireBase, Google Ma p API…  
+- 
+Less experienceed with database : MongoDB, Mysql  
+- 
+Less experienceed with restful api with nodejs  
+Project:  
+1.Tôi mu ốn mua s ỉ 
+- link do wnload:  
+Ios: https://apps.apple.com/us/app/id1527908123
+  
+Android:  https://play.google.com/store/apps/details?id=vn.com.sanketnoi
+  
+App connect people who want to buy and who want to sell products on the market  
+Technologies used: Redux, Codepush, Onesignal , React Native, React Navgation, FireBase Realtime 
+Database.  
+2.Ch ợ Lạng Sơn  
+- link download:  
+Ios: https://apps.apple.com/app/id1535314878
+  
+Android: https://play.google.com/store/apps/details?id=com.vn.cholangson
+  
+App make it easier for customers to find classifieds, sellers are more convenient to track online 
+classified activities  
+Technologies used: Redux, Codepush, Onesignal, React Native, React Navgati on, FireBase 
+Authentication, Facebook developer . 
+3. Card Visit Online  
+- link download:  
+Ios: https://apps.apple.com/app/id1531667706
+  
+Android:  https://play.google.com/store/apps/details?id=com.cardvisit
+  
+App helps you create a visit card and search for the visit card according to your needs.  
+Technologies used: Redux, Codepush, Onesignal, React Native, React Navgation,  React Native 
+Map . 
+Ph
+ạm Quang  
+Tr
+ường 
+PERSONAL PROFILE  
+Gender   : Male  
+Birthday   : 04/04/2000  
+Marital status  : Single  
+Nationality  : Vietnamese  
+Country   :Vietnam  
+PHONE  
+097 597 2543  
+E-MAIL  
+Phamtruong010@gmail.com  
+Facebook.com/username  
+linkedin.com/username  
+Twitter.com/username  
+TOEIC Certificate  with score 400  
